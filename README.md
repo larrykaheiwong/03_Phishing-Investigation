@@ -21,4 +21,4 @@ The investigation focuses on determining whether the email and downloaded file a
 
 ## Report
 
-View the investigation report
+[View the investigation report](investigation-report.md)
