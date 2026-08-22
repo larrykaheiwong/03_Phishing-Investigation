@@ -1,6 +1,6 @@
 # 03_Phishing-Investigation
 Objective:
-Investigate repeated failed RDP authentication followed by successful authentication using Wazuh.
+Investigate a suspected phishing email reported by a user after they downloaded and opened a malicious attachment disguised as a payslip.
 
 ## Environment:
 - Windows endpoint
