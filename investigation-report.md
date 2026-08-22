@@ -17,6 +17,7 @@ A user reported receiving a suspicious payslip email after downloading and openi
 | Sender address     | `mekemak123@gmail.com`                                  |
 | Expected sender   | `makemak123@gmail.com`                                  |
 | Return-Path        | `mekemak123@gmail.com`                                     |
+| Target address       | `larry.kaheiwong@gmail.com`                                     |
 | Timestamp          | Sat, 22 Aug 2026 11:34:34 +0100                         |
 | SPF                | Pass                                                    |
 | DKIM               | Pass                                                    |
