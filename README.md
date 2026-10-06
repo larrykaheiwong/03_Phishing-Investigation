@@ -19,7 +19,7 @@ Investigate a suspected phishing email reported by a user after they downloaded 
 
 A user reported receiving what appeared to be a legitimate payslip email.
 
-The user later noticed something unusual about the email and reported it to the SOC. However, the user had already downloaded and opened the attached file.
+The user later noticed something unusual about the email and reported it to the SOC. However, the user had already downloaded a file via link from the email and opened the malicious file.
 
 After opening the file, the user reported unusual behaviour on the workstation, including intermittent screen flashing.
 
