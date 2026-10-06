@@ -5,7 +5,7 @@
 
 ## Objective
 
-Investigate a suspected phishing email reported by a user after they downloaded and opened a malicious attachment disguised as a payslip.
+Investigate a suspected phishing email reported by a user after they downloaded and opened a malicious file disguised as a payslip.
 
 ## Environment
 
