@@ -8,7 +8,7 @@
 
 ## Alert
 
-A user reported receiving a suspicious payslip email after downloading and opening the attached file. The user subsequently reported unusual workstation behaviour, including intermittent screen flashing.
+A user reported receiving a suspicious payslip email after downloading and opening the file. The user subsequently reported unusual workstation behaviour, including intermittent screen flashing.
 
 ## Evidence
 
