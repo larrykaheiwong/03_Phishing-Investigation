@@ -29,7 +29,7 @@ The investigation focuses on determining whether the email and downloaded file a
 
 1. Review the user-reported phishing email
 2. Examine email headers and sender information
-3. Analyse the attachment and identify relevant indicators
+3. Analyse the downloaded file and identify relevant indicators
 4. Review Wazuh alerts and Sysmon telemetry
 5. Correlate endpoint activity with the reported execution time
 6. Assess whether the activity is malicious or suspicious
@@ -38,9 +38,9 @@ The investigation focuses on determining whether the email and downloaded file a
 
 ## Outcome
 
-- **Finding:** Suspected malicious phishing email and attachment
+- **Finding:** Suspected malicious phishing email and malicious downloaded file
 - **Disposition:** Escalated to L2
-- **Key evidence:** Suspicious attachment, email indicators, and endpoint activity following execution
+- **Key evidence:** Suspicious downloaded file, email indicators, and endpoint activity following execution
 
 ## Report
 
